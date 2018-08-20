@@ -1,2 +1,2 @@
 # ohw_git_ss
-spencer sherk's ohw repo
+spencer sherk's ohw repo. for practicing github
